@@ -14,7 +14,6 @@ export const Link = styled(NavLink)`
   gap: 5px;
   padding: 8px 16px;
   border-radius: 4px;
-  /* box-shadow: rgb(235 312 123) 0px 0px 10px 1px; */
 
   text-decoration: none;
   color: #10e6e6;
@@ -24,7 +23,3 @@ export const Link = styled(NavLink)`
     color: #921534;
   }
 `;
-
-// .item {
-//     transform: rotate(224deg);
-// }
