@@ -30,7 +30,6 @@ const UsersPage = () => {
 
   const loadMore = () => {
     setNeedQuantityForPage((prevState) => prevState + 8);
-    console.log(needQuantityForPage);
   };
 
   return (
