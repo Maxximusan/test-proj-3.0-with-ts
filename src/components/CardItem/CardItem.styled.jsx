@@ -57,7 +57,7 @@ export const AvatarWindow = styled.div`
   width: 90px;
   height: 80px;
   position: absolute;
-  top: 181px;
+  top: 171px;
   background-image: url(${circle});
 `;
 
