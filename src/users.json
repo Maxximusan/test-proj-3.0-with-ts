@@ -1,0 +1,226 @@
+[
+    {
+        "user": "Jared Leto",
+        "avatar": "https://kinoafisha.ua/upload/persons/1220/src_22kkr006dgared-leto.jpg",
+        "tweets": 8,
+        "followers": 100600,
+        "id": "1"
+    },
+    {
+        "user": "Tom Delonge",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdIas6nCzIYPtQEaX4oRnwxmvgiv4zwDX-Kg&usqp=CAU",
+        "tweets": 37,
+        "followers": 70800,
+        "id": "2"
+    },
+    {
+        "user": "Benjamin Burnley",
+        "avatar": "https://i.imgur.com/mtIALKB.gif?1",
+        "tweets": 42,
+        "followers": 82300,
+        "id": "3"
+    },
+    {
+        "user": "Christine Lorentzen",
+        "avatar": "https://www.rusbionicle.com/images/news/lore-cryoshell-14-04-2010-news.jpg",
+        "tweets": 82,
+        "followers": 85500,
+        "id": "4"
+    },
+    {
+        "user": "Sully Erna",
+        "avatar": "https://www.zvuki.ru/images/photo/45/45565.jpg",
+        "tweets": 74,
+        "followers": 100800,
+        "id": "5"
+    },
+    {
+        "user": "Chloe Chaidez",
+        "avatar": "https://i.pinimg.com/564x/39/b9/d4/39b9d42178e1a9b1912146a8b9418bc8--the-band-kittens.jpg",
+        "tweets": 24,
+        "followers": 67500,
+        "id": "6"
+    },
+    {
+        "user": "Adam Gontier",
+        "avatar": "https://i.pinimg.com/originals/e9/6a/5b/e96a5bdc7a28a44522ebcb411c8d01c5.jpg",
+        "tweets": 31,
+        "followers": 110500,
+        "id": "7"
+    },
+    {
+        "user": "Liam Gallagher",
+        "avatar": "https://images.mubicdn.net/images/cast_member/109443/cache-226460-1515719453/image-w856.jpg?size=800x",
+        "tweets": 45,
+        "followers": 105500,
+        "id": "8"
+    },
+    {
+        "user": "Jacoby Shaddix",
+        "avatar": "https://pbs.twimg.com/profile_images/1105160670/1269133191_400x400.jpg",
+        "tweets": 36,
+        "followers": 115500,
+        "id": "9"
+    },
+    {
+        "user": "Mike Shinoda",
+        "avatar": "https://bookingagentinfo.com/wp-content/uploads/2022/12/Mike-Shinoda-1.jpg",
+        "tweets": 66,
+        "followers": 120500,
+        "id": "10"
+    },
+    {
+        "user": "Sonny Sandoval",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZrsr4oLG0_P0oHY-ZQjV9azmdNjSo9rXwkdB8ymePhOk4SCyldQZ6akzzE_aUTXPLNjg&usqp=CAU",
+        "tweets": 64,
+        "followers": 100500,
+        "id": "11"
+    },
+    {
+        "user": "Fred Durst",
+        "avatar": "https://compote.slate.com/images/011a06e9-c866-477c-8e45-deff9da4656a.jpg?crop=3000%2C2937%2Cx0%2Cy0",
+        "tweets": 92,
+        "followers": 107500,
+        "id": "12"
+    },
+    {
+        "user": "Serj Tankyan",
+        "avatar": "https://tumo.org/wp-content/uploads/2017/04/Serj_Board.png",
+        "tweets": 49,
+        "followers": 100500,
+        "id": "13"
+    },
+    {
+        "user": "Daron Malakyan",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDE7F6Art-Ey7s9a6uypByQjJ4_ym_PNjkUg&usqp=CAU",
+        "tweets": 17,
+        "followers": 101500,
+        "id": "14"
+    },
+    {
+        "user": "Dero Goi",
+        "avatar": "https://pbs.twimg.com/profile_images/378800000503591215/c5d8f26370adaad8cc1bcedd12857b0c_400x400.jpeg",
+        "tweets": 95,
+        "followers": 79500,
+        "id": "15"
+    },
+    {
+        "user": "Till Lindemann",
+        "avatar": "https://irecommend.ru/sites/default/files/product-images/1614858/zISdTEdeBGgnLKWyjjT9xg.jpg",
+        "tweets": 69,
+        "followers": 28,
+        "id": "16"
+    },
+    {
+        "user": "John Cooper",
+        "avatar": "https://i.pinimg.com/236x/f2/ce/22/f2ce224c091d1327db538df8418d9e03--christian-singers-christian-music.jpg",
+        "tweets": 78,
+        "followers": 105000,
+        "id": "17"
+    },
+    {
+        "user": "Jen Ledger",
+        "avatar": "https://lf.radio/assets/components/phpthumbof/cache/Jen_Ledger.202d14a09f61e2c8e92ed5588f203ef2.jpg",
+        "tweets": 24,
+        "followers": 83500,
+        "id": "18"
+    },
+    {
+        "user": "David Gahan",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJ0AaxmEc3xAxfFNoKLF7PB-mndM1Qb2nVIoanY42pmfZrMMMmiiEmoADvj9gkYYTCFg&usqp=CAU",
+        "tweets": 18,
+        "followers": 86,
+        "id": "19"
+    },
+    {
+        "user": "Sharon Den Adel",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5fjE8ffWiuDisV4jZTm1RcSjlCyARziiJCg&usqp=CAU",
+        "tweets": 59,
+        "followers": 95500,
+        "id": "20"
+    },
+    {
+        "user": "Kevin Matisyn",
+        "avatar": "https://townsquare.media/site/84/files/2013/10/Capture1.png",
+        "tweets": 75,
+        "followers": 30,
+        "id": "21"
+    },
+    {
+        "user": "Shawn Morgan",
+        "avatar": "https://cdn.shopify.com/s/files/1/0243/5115/products/Shaun_Morgan_of_Seether_Headshot_21f5ab84-66ce-4082-8bff-28d744ce1671_grande.jpg?v=1607361900",
+        "tweets": 24,
+        "followers": 101500,
+        "id": "22"
+    },
+    {
+        "user": "Amy Lee",
+        "avatar": "https://www.thefamouspeople.com/profiles/images/amy-lee-4.jpg",
+        "tweets": 37,
+        "followers": 101500,
+        "id": "23"
+    },
+    {
+        "user": "Chad Kroeger",
+        "avatar": "https://image.tmdb.org/t/p/w235_and_h235_face/rRZ0SD3BK1mCaiFB9w5oqh1Bh3C.jpg",
+        "tweets": 59,
+        "followers": 90500,
+        "id": "24"
+    },
+    {
+        "user": "Antony Kidis",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbvrVhvni_dze-CgoROpiyDa7TivrFCmJsKA&usqp=CAU",
+        "tweets": 64,
+        "followers": 99500,
+        "id": "25"
+    },
+    {
+        "user": "Matthew bellamy",
+        "avatar": "https://medias.spotern.com/people/w320/5/5893-1542417932.jpg",
+        "tweets": 56,
+        "followers": 98500,
+        "id": "26"
+    },
+    {
+        "user": "Sandra Nasic",
+        "avatar": "https://guano-apes.ru/images/joomgallery/details/___guano_apes_10/sandra_nasic_-____guano_apes_20/sandra-nasic-rock-lead-singer-guano-apes_20140525_1905126047.jpg",
+        "tweets": 86,
+        "followers": 82500,
+        "id": "27"
+    },
+    {
+        "user": "Cory Taylor",
+        "avatar": "https://static.independent.co.uk/2021/08/22/11/newFile-1.jpg?width=1200",
+        "tweets": 26,
+        "followers": 109500,
+        "id": "28"
+    },
+    {
+        "user": "Дарья Ставрович",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeo0F4rN6bG0RuNHCO0sdhEPQ1nQojh4pHbA&usqp=CAU",
+        "tweets": 86,
+        "followers": 98500,
+        "id": "29"
+    },
+    {
+        "user": "Dexter Holland",
+        "avatar": "https://i.redd.it/iibrwbwl30v41.jpg",
+        "tweets": 72,
+        "followers": 100000,
+        "id": "30"
+    },
+    {
+        "user": "Alecia Demner",
+        "avatar": "https://marriedceleb.com/uploads/biography/2019/6/12/ale1-1560321221914.jpg",
+        "tweets": 10,
+        "followers": 70500,
+        "id": "31"
+    },
+    {
+        "user": "James Hetfield",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTURo8OrAANGhJAET-p4uQfBaMsjZQ4KjXhQQ&usqp=CAU",
+        "tweets": 91,
+        "followers": 109500,
+        "id": "32"
+    }
+]
