@@ -1,6 +1,7 @@
 import { useLocalStorage } from "../../hooks/useLocalStorage";
 
 import * as SC from "./CardItem.styled";
+import logo from "../../images/Vector.png";
 
 export const CardItem = (props) => {
   const { card } = props;
@@ -26,12 +27,10 @@ export const CardItem = (props) => {
 
   return (
     <SC.CardContainer key={card.id}>
-      <SC.Logo></SC.Logo>
-      <SC.PictureSection></SC.PictureSection>
-      <SC.DividingStrip></SC.DividingStrip>
+      <SC.Logo src={logo} width="76" height="22" alt="logo" />
 
       <SC.AvatarWindow>
-        <SC.Avatar src={card.avatar} alt="фото" />
+        <SC.Avatar src={card.avatar} alt="photo" width="63" height="62" />
       </SC.AvatarWindow>
 
       <SC.UserName>{card.user}</SC.UserName>
@@ -42,9 +41,11 @@ export const CardItem = (props) => {
       </SC.FollowersQuantity>
 
       {!noClick ? (
-        <SC.StartBtn onClick={onClickStartBtn}> Follow </SC.StartBtn>
+        <SC.StartBtn onClick={onClickStartBtn} type="button">
+          Follow
+        </SC.StartBtn>
       ) : (
-        <SC.AfterPushBtn onClick={onClickAfterPushStartBtn}>
+        <SC.AfterPushBtn onClick={onClickAfterPushStartBtn} type="button">
           Following
         </SC.AfterPushBtn>
       )}

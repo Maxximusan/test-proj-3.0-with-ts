@@ -6,9 +6,11 @@ import * as MockApi from "../../Api/mockapiBackend";
 import { BackBtn } from "../../components/BackBtn/BackBtn";
 import { Loader } from "../../components/Loader/Loader";
 
+const USER_PER_ROW = 8;
+
 const UsersPage = () => {
   const [users, setUsers] = useState([]);
-  const [needQuantityForPage, setNeedQuantityForPage] = useState(8);
+  const [needQuantityForPage, setNeedQuantityForPage] = useState(USER_PER_ROW);
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
@@ -29,7 +31,7 @@ const UsersPage = () => {
   const sliceUsers = users.slice(0, needQuantityForPage);
 
   const loadMore = () => {
-    setNeedQuantityForPage((prevState) => prevState + 8);
+    setNeedQuantityForPage((prevState) => prevState + USER_PER_ROW);
   };
 
   return (
