@@ -1,3 +1,4 @@
+import React from 'react'
 import * as SC from "./Home.styled";
 
 const HomePage = () => {

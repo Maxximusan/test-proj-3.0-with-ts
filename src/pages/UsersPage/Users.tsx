@@ -1,5 +1,5 @@
-import { useState, useEffect } from "react";
-import * as SC from "../UsersPage/Users.styled";
+import React, { useState, useEffect } from "react";
+import * as SC from "./Users.styled";
 import { CardList } from "../../components/CardList/CardList";
 import { LoadMoreBtn } from "../../components/LoadMoreBtn/LoadMoreBtn";
 import * as MockApi from "../../Api/mockapiBackend";

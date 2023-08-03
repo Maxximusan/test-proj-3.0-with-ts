@@ -1,8 +1,8 @@
-import { lazy } from "react";
+import React, { lazy } from "react";
 import { Route, Routes } from "react-router-dom";
 import { SharedLayout } from "./components/SharedLayout/SharedLayout";
 
-const HomePage = lazy(() => import("./pages/HomePage/Home"));
+const HomePage = lazy(() => import("./pages/HomePage/Home.tsx"));
 const UsersPage = lazy(() => import("./pages/UsersPage/Users"));
 
 export const App = () => {
