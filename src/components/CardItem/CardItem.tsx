@@ -1,10 +1,16 @@
+import React from 'react'
 import { useLocalStorage } from "../../hooks/useLocalStorage";
 
 import * as SC from "./CardItem.styled";
 import logo from "../../images/Vector.png";
+import { IUser } from '../../types/types'
 
-export const CardItem = (props) => {
-  const { card } = props;
+interface IUserItemProps {
+card: IUser
+}
+
+export const CardItem = ({card}: IUserItemProps) => {
+  // const { card } = props;
 
   const [followers, setFollowers] = useLocalStorage(
     "followers" + card.id,
@@ -13,15 +19,15 @@ export const CardItem = (props) => {
 
   const [noClick, setNoClick] = useLocalStorage("btn" + card.id, false);
 
-  const onClickStartBtn = (event) => {
-    setFollowers((prev) => prev + 1);
+  const onClickStartBtn = (event: React.MouseEvent<HTMLButtonElement>) => {
+    setFollowers((prev: number) => prev + 1);
     setNoClick(true);
     event.preventDefault();
   };
 
-  const onClickAfterPushStartBtn = (event) => {
+  const onClickAfterPushStartBtn = (event: React.MouseEvent<HTMLButtonElement>) => {
     event.preventDefault();
-    setFollowers((prev) => prev - 1);
+    setFollowers((prev: number) => prev - 1);
     setNoClick(false);
   };
 

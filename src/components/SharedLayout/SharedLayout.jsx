@@ -1,7 +1,7 @@
 import { Outlet } from "react-router-dom";
-import { Suspense } from "react";
+import React, { Suspense } from "react";
 import { Box } from "../Box";
-import { Link } from "../SharedLayout/SharedLayout.styled";
+import { Link } from "./SharedLayout.styled";
 
 export const SharedLayout = () => {
   return (

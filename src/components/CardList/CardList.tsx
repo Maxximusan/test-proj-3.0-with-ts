@@ -1,9 +1,15 @@
+import React from 'react'
 import { CardItem } from "../CardItem/CardItem";
 
 import { List } from "./cardList.styled";
+import { IUser } from '../../types/types'
 
-export const CardList = (props) => {
-  const { users } = props;
+interface IUsersListProps {
+  users: IUser[]
+}
+
+export const CardList = ({users}: IUsersListProps) => {
+  // const { users } = props;
 
   return (
     <section>

@@ -1,4 +1,4 @@
-import { Hearts } from "react-loader-spinner";
+import React, { Hearts } from "react-loader-spinner";
 
 export const Loader = () => {
   return (

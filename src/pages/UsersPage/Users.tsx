@@ -6,10 +6,12 @@ import * as MockApi from "../../Api/mockapiBackend";
 import { BackBtn } from "../../components/BackBtn/BackBtn";
 import { Loader } from "../../components/Loader/Loader";
 
+import { IUser } from '../../types/types'
+
 const USER_PER_ROW = 8;
 
 const UsersPage = () => {
-  const [users, setUsers] = useState([]);
+  const [users, setUsers] = useState<IUser[]>([]);
   const [needQuantityForPage, setNeedQuantityForPage] = useState(USER_PER_ROW);
   const [isLoading, setIsLoading] = useState(true);
 

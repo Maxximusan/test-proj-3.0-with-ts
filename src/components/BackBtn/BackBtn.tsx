@@ -1,3 +1,4 @@
+import React from 'react'
 import { GiGuitar } from "react-icons/gi";
 
 import * as SC from "./BackBtn.styled";
