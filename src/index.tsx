@@ -6,7 +6,7 @@ import { App } from "./App";
 import { ThemeProvider } from "styled-components";
 import { theme } from "./theme";
 
-ReactDOM.createRoot(document.getElementById("root")!).render(
+ReactDOM.createRoot(document.getElementById("root")! as HTMLElement).render(
   <React.StrictMode>
     <BrowserRouter basename="/test-proj-3.0-with-ts">
       <ThemeProvider theme={theme}>
