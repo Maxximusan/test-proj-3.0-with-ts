@@ -7,6 +7,7 @@ This project is a collection of rock singers' tweets from the API. You can get d
 - axios
 - react-router-dom
 - styled-components
+- type script
 
 ### `Getting Started`
 
