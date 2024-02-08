@@ -48,6 +48,7 @@ export const Logo = styled.img`
   position: absolute;
   top: 20px;
   left: 20px;
+  display: none;
 `;
 
 export const AvatarWindow = styled.div`
